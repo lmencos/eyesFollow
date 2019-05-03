@@ -1,0 +1,16 @@
+.header ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  height: 5vh;
+  border: 1px solid gray;
+  margin: .5vh;
+}
+
+.header ul .A {
+  color: black;
+}
+/*# sourceMappingURL=proyectos.css.map */

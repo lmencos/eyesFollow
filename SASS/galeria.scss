@@ -1,0 +1,14 @@
+
+.header ul
+{
+  display: flex;
+  justify-content: space-evenly;
+  height: 5vh;
+  border: 1px solid gray;
+  margin: .5vh;
+  
+  .A
+  {
+    color: black;
+  }
+}
