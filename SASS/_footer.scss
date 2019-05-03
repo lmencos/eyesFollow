@@ -1,17 +1,16 @@
 @import "variables";
 
-.header ul
+#footer ul
 {
   display: flex;
   justify-content: space-evenly;
-  height: $headerHeight;
+  height: $footerHeight;
   border: 1px solid gray;
   margin: $globalMargin;
-  
   .A
   {
+    color: $colorFont;
     font-family: $font;
     font-size: $fontMedium;
-    color: $fontColor;
   }
 }

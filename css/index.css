@@ -30,10 +30,12 @@
           justify-content: space-evenly;
   height: 15vh;
   border: 1px solid gray;
-  margin: .5vh;
+  margin: 0.5vh;
 }
 
 #footer ul .A {
   color: black;
+  font-family: "Cabin Sketch", cursive;
+  font-size: 3vh;
 }
 /*# sourceMappingURL=index.css.map */
