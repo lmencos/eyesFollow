@@ -1,1 +1,39 @@
-/* No CSS *//*# sourceMappingURL=index.css.map */
+#header {
+  height: 5vh;
+  border: 1px solid orange;
+  margin: .5vh;
+}
+
+#mainCanvas {
+  height: 79vh;
+  border: 1px solid red;
+  margin: .5vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+#mainCanvas #objetoA3d {
+  height: inherit;
+  border: 1px solid purple;
+}
+
+#footer ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  height: 15vh;
+  border: 1px solid gray;
+  margin: .5vh;
+}
+
+#footer ul .A {
+  color: black;
+}
+/*# sourceMappingURL=index.css.map */
