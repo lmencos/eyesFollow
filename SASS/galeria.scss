@@ -15,3 +15,41 @@
     color: $fontColor;
   }
 }
+
+#titulo
+{
+  display: flex;
+  justify-content: center;
+  font-family: $font;
+  font-size: $fontLarge;
+  color: $fontColor;
+  border: 1px solid gray;
+}
+
+.galeria
+{
+  .g
+  {
+    height: 40vh;
+    padding: $globalMargin;
+    border: 1px solid gray;
+  }
+
+}
+
+.footer ul
+{
+  display: flex;
+  justify-content: space-evenly;
+  height: $headerHeight;
+  border: 1px solid gray;
+  // margin: $globalMargin;
+  margin-bottom: 0vh;
+  
+  .A
+  {
+    font-family: $font;
+    font-size: $fontMedium;
+    color: $fontColor;
+  }
+}
