@@ -16,3 +16,27 @@
   }
 }
 
+@media screen and (max-width: 2024px)
+{
+  .main
+  {
+    margin: 25vh;
+  }
+}
+
+@media screen and (max-width: 1024px)
+{
+  .main
+  {
+    margin: 10vh;
+  }
+}
+
+@media screen and (max-width: 612px)
+{
+  .main
+  {
+    margin: 0vh;
+    margin-top: 15vh;
+  }
+}
