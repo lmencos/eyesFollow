@@ -1,13 +1,17 @@
+@import "variables";
+
 .header ul
 {
   display: flex;
   justify-content: space-evenly;
-  height: 5vh;
+  height: $headerHeight;
   border: 1px solid gray;
-  margin: .5vh;
+  margin: $globalMargin;
   
   .A
   {
-    color: black;
+    font-family: $font;
+    font-size: $fontMedium;
+    color: $fontColor;
   }
 }

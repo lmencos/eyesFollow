@@ -7,10 +7,12 @@
           justify-content: space-evenly;
   height: 5vh;
   border: 1px solid gray;
-  margin: .5vh;
+  margin: 0.5vh;
 }
 
 .header ul .A {
+  font-family: "Cabin Sketch", cursive;
+  font-size: 3vh;
   color: black;
 }
 /*# sourceMappingURL=proyectos.css.map */
