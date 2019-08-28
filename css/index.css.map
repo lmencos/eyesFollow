@@ -4,7 +4,7 @@
     "sources": [
         "../SASS/index.scss",
         "../SASS/_header.scss",
-        "../SASS/_main.scss",
+        "../SASS/main.scss",
         "../SASS/_footer.scss",
         "../SASS/_variables.scss"
     ],
